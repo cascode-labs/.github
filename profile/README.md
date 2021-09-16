@@ -17,4 +17,4 @@ A set of simple to install Conda EDA packages have been developed.
 Conda supports any language, including SKILL and Python. 
 
 - skillbridge: Python to SKILL communication
-- conda-virtuoso: SKILL package and environment management support using Conda
+- viper: SKILL package and environment management support using Conda
