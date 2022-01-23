@@ -11,10 +11,11 @@ Goals
 - Develop analog and RF IC generators that can produce IP in multiple processes and adjust to variations in specifications.
 - Get home in time for dinner every night
 
-Packages
+Projects
 --------
 A set of simple to install Conda EDA packages have been developed.  
 Conda supports any language, including SKILL and Python. 
 
-- skillbridge: Python to SKILL communication
-- viper: SKILL package and environment management support using Conda
+- [viper](http://www.cascode-labs.org/viper/): Integrated circuit design environment supporting both free and commercial tools.
+- [viper-forge](http://www.cascode-labs.org/viper-forge/): Community-led packages for IC design
+- [virtue](http://www.cascode-labs.org/virtue/): Support for Cadence Virtuoso in Viper
