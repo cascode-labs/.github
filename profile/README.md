@@ -11,8 +11,7 @@ Goals
 
 Projects
 --------
-A set of simple to install Conda EDA packages are being developed.  
-Conda supports any language, including SKILL and Python. 
+The following set of projects are being created to support Viper.  See viper-forge for a list of projects with viper packages.
 
 - [viper](http://www.cascode-labs.org/viper/): Integrated circuit design environment supporting both free and commercial tools.
 - [viper-forge](http://www.cascode-labs.org/viper-forge/): Community-led packages for IC design
