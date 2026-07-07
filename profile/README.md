@@ -17,9 +17,6 @@ The following set of projects are being created to support Viper.  See viper-for
 [Cadence Virtuoso](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/circuit-design.html)
 - [Softworks](https://github.com/cascode-labs/softworks):
   Software and documentation view types in the Cadence Virtuoso IC design environment.
-- [Data-panels](https://github.com/cascode-labs/data-panels):
-  Export rich data reports from simulation results to pptx slides and
-  xlsx tables
 - [Morpheus](https://github.com/cascode-labs/morpheus):
   Generate Maestro test benches in a standard way compatible with an associated
   data-panels report
